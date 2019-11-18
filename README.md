@@ -9,9 +9,10 @@ https://data.wprdc.org/dataset/non-traffic-citations/resource/6b11e87d-1216-463d
 https://data.wprdc.org/dataset/uniform-crime-reporting-data/resource/044f2016-1dfd-4ab0-bc1e-065da05fca2e
 
 ## The Best Neighborhood
-After analyzing the different datasets, we have determined that INSERT NEIGHBORHOOD is the best neighborhood in Pittsburgh.
+After analyzing the different datasets, we have determined that Hays is the best neighborhood in Pittsburgh.  In our datasets, Hays ranked as having one of the lowest amounts of illegal trash dumped (1.3 tons) and lowest amount of police citations and crimes.  From further research, Hays is a neighborhood in Pittsburgh, Pennsylvania with a population of 3,025. Hays is mostly residential and has very highly rated public schools.  There are also a lot of bars and parks for its residents.
 
 ## Jane's Conclusion
+I was surprised to see that Hays was the "best" neighborhood from our metric system.  I am from Pittsburgh and had never heard of this area so I was expecting it to be Shadyside or Squirrel Hill.  After researching Hays
 
 ## Rowan's Conclusion
 
